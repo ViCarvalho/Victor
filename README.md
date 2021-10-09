@@ -23,7 +23,7 @@ Hoje estudo o ensino superior  Analise e Desenvolvimento de Sistemas [UNIP](http
 # Tecnologias utilizadas que estou aprendendo.
 - JavaScript;
 - Java;
-- Python
+- Python. 
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
