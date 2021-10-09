@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://vicarvalho.github.io/Blog-Pessoal/
 
 Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
@@ -72,7 +72,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Victor Carvalho
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/victor-carvalho-02858a202/
 
