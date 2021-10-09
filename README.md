@@ -1,4 +1,4 @@
-# Seja Bem vindo ao meu Blog!
+# Seja Bem vindo ao meu Blog! 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ViCarvalho/Blog-Pessoal/tree/add-license-1)
 
 # Sobre mim.
@@ -9,18 +9,12 @@ Atualmente trabalho  como Assistente de Suprimentos na [Lumiar Healthcare](https
 
 Hoje estudo o ensino superior  Analise e Desenvolvimento de Sistemas [UNIP](https://www.unip.br/cursos/graduacao/tecnologicos/analise_desenvolvimento_sistemas.aspx) e curso livre Programador Front End [Senai](https://www.sp.senai.br/cursos/95402/106/programador-frontend.html).
 
-## Layout mobile.
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+<img src="FOTO%20LINKEDIN.jpg" alt="FOTO%20LINKEDIN" width="200"/>
+ <a href="https://www.instagram.com/mlk_vitz/"_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-carvalho-02858a202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
-# Tecnologias utilizadas que estou aprendendo.
+# Tecnologias que estou aprendendo.
 - JavaScript;
 - Java;
 -  Python.
