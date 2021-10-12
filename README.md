@@ -11,8 +11,7 @@ Hoje estudo o ensino superior  Analise e Desenvolvimento de Sistemas [UNIP](http
  <a href = "mailto:victorjosecarvalho10@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/victor-carvalho-02858a202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     <a href = "https://github.com/ViCarvalho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/mlk_vitz/"_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+    <a href = "https://www.instagram.com/mlk_vitz/" _blank"> <img src =" https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alvo = "_blank" > </ a >
 
 
 # Tecnologias que estou aprendendo.
