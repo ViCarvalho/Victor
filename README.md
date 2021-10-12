@@ -27,4 +27,4 @@ Victor Carvalho
 
 https://www.linkedin.com/in/victor-carvalho-02858a202/
 
-<a href = "https://vicarvalho.github.io/Blog-Pessoal/"
+https://vicarvalho.github.io/Blog-Pessoal/
