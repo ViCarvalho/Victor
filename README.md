@@ -8,6 +8,7 @@ Atualmente trabalho  como Assistente de Suprimentos na [Lumiar Healthcare](https
 Hoje estudo o ensino superior  Analise e Desenvolvimento de Sistemas [UNIP](https://www.unip.br/cursos/graduacao/tecnologicos/analise_desenvolvimento_sistemas.aspx) e curso livre Programador Front End [Senai](https://www.sp.senai.br/cursos/95402/106/programador-frontend.html).
 
 <img src="FOTO%20LINKEDIN.jpg" alt="FOTO%20LINKEDIN" width="200"/>
+
 <div> 
 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
