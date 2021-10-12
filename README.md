@@ -17,7 +17,7 @@ Hoje estudo o ensino superior  Analise e Desenvolvimento de Sistemas [UNIP](http
 
   
 
-# Tecnologias que estou aprendendo.
+# Tecnologias que estou aprendendo:
 - JavaScript;
 - Java;
 -  Python.
